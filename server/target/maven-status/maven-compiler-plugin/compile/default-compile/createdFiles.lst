@@ -1,0 +1,7 @@
+com\bonree\dataview\plugin\PluginClassLoader.class
+com\bonree\dataview\plugin\PluginDiscovery$1.class
+com\bonree\dataview\plugin\PluginConfig.class
+com\bonree\dataview\plugin\PluginDiscovery.class
+com\bonree\dataview\plugin\PluginInitializer.class
+META-INF\extensions.idx
+com\bonree\dataview\demo\Server.class
